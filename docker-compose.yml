@@ -1,6 +1,6 @@
 version: '1.0'
 services:
-  user-service-api:
+  user-service-backend:
     build:
       context: .
       dockerfile: Dockerfile

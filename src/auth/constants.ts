@@ -1,3 +1,3 @@
 export const jwtConstants = {
-  secret: 'DATABASE PROJECT IS HELPFUL',
+  secret: 'SCALABLE SERVICE PROJECT IS HELPFUL',
 };
